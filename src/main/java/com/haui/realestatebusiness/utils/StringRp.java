@@ -11,4 +11,8 @@ public interface StringRp {
     String PROVINCE_IS_FAKE = "province is fake";
     String DISTRICT_IS_FAKE = "district is fake";
     String WARD_IS_FAKE = "ward is fake";
+
+    String BUILDING_CATEGORY_IS_FAKE = "building category is fake";
+    String NAME_IS_EXISTS = "name is exists";
+
 }
