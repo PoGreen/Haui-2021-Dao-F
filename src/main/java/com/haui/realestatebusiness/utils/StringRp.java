@@ -15,4 +15,9 @@ public interface StringRp {
     String BUILDING_CATEGORY_IS_FAKE = "building category is fake";
     String NAME_IS_EXISTS = "name is exists";
 
+    //    image
+    String IMAGE_IS_NOT_EXIST = "image is not exists";
+    String USER_HAS_NOT_IMAGE = "user has not image";
+    String FILE_IS_NOT_IMAGE = "file ís not image";
+    String FILE_IS_NOT_EXISTS = "file ís not exists";
 }
